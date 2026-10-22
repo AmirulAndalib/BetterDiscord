@@ -17,7 +17,7 @@
         "translations": "node -r dotenv/config scripts/translations.js"
     },
     "devDependencies": {
-        "@babel/core": "^7.23.9",
+        "@babel/core": "^7.29.6",
         "@babel/preset-env": "^7.23.9",
         "@babel/register": "^7.23.7",
         "@electron/asar": "^3.2.0",
@@ -27,7 +27,7 @@
         "eslint-plugin-react-hooks": "^4.6.0",
         "mocha": "^10.3.0",
         "terser-webpack-plugin": "^5.3.10",
-        "webpack": "^5.90.3",
+        "webpack": "^5.104.1",
         "webpack-cli": "^4.10.0"
     },
     "engines": {
